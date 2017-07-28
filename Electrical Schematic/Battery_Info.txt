@@ -1,0 +1,2 @@
+Battery is not included in the schematic:
+3.7V Lithium Ion battery (500 mAh)
