@@ -52,7 +52,9 @@ In order to see how accurate #TheWheezer was, we needed to compare it to a medic
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Test_Data.png?raw=true)
 
 + FVC = 8.2
+
 + Peak = 5.1
+
 + FEV1 = ~2.6
 
 ### Important Takeaways
