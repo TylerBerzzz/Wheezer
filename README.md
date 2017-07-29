@@ -35,6 +35,7 @@ In order to see how accurate #TheWheezer was, we needed to compare it to a medic
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Doctors_Data.jpg?raw=true)
 
 ### Important Takeaways
+
 + The peak in the left graph represents how well air is moving through your airways at the time you take the test. Typically asthmatics have something called a "peak flow meter" which only measure the fastest flow you expel. It can be a helpful monitor for measuring present asthma symptoms; however, the peak doesn't tell you anything about your small airways- which makes these available devices limited.
 
 + FVC stands for forced vital capacity. FVC is the total amount of air exhaled during the test.
@@ -46,6 +47,17 @@ In order to see how accurate #TheWheezer was, we needed to compare it to a medic
 ## Our Data:
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Test_Data.png?raw=true)
 
+### Important Takeaways
+
++ Note that the Volume vs Time graph is created by integrating the Flow Rate vs Time Data.  
+
++ The blue line on the Flow Rate vs Time graph drops off at 2.74 L/s because it is the threshold that #TheWheezer is set to. The threshold is relatively high because the Differential pressure sensor is not sensitive enough to measure very low pressure drops. It ends on 2.74V and not 0 because the arduino code exits the plotting loop when the sensor is below the threshold. We expected the threshold to be lower. 
+
+
+# Conclusion
++ Our graph compares nicely with the Doctors graph. Our results are not identical (because we do not have a medically accurate instrument with required margins of error); however, the results correlate very well!
+
+
 # Datasheets
 SM5812: http://www.mouser.com/ds/2/589/SM5812-254991.pdf
 
@@ -55,3 +67,4 @@ SM5812: http://www.mouser.com/ds/2/589/SM5812-254991.pdf
 + Lithium Ion Polymer Battery - 3.7v 500mAh: https://www.adafruit.com/product/1578#tutorials
 + Switch: We just found a SPDT switch lying around somewhere
 + Arduino 101 Curie
++ PCB from SEEEDstudio
