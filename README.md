@@ -24,7 +24,7 @@ To avoid the lower resolution of the Arduino 101*, we needed to use a differenti
 # Our PCB
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/PCB_Inside_Print.jpg?raw=true)
 
-We ordered our PCB from SEEEDStudio*. We were debating on whether or not to provide the routing and GERBER files on Github; we ended up deciding not to because the SM5812 has become an obsolete component. 
+We ordered our PCB from SEEEDStudio*. We were debating on whether or not to provide the routing and GERBER files on Github; we ended up deciding not to because the SM5812 has recently become an  NRND (Not recommended for new designs) component. 
 
 SEEEDStudio: https://www.seeedstudio.com/fusion_pcb.html
 
@@ -62,9 +62,14 @@ In order to see how accurate #TheWheezer was, we needed to compare it to a medic
 SM5812: http://www.mouser.com/ds/2/589/SM5812-254991.pdf
 
 # BOM (Build of Materials)
-+ Adafruit 1.44" Color TFT LCD Display with MicroSD Card breakout: https://www.adafruit.com/product/2088#tutorials
-+ PowerBoost 500 Basic - 5V USB Boost @ 500mA from 1.8V+: https://www.adafruit.com/product/1944
-+ Lithium Ion Polymer Battery - 3.7v 500mAh: https://www.adafruit.com/product/1578#tutorials
++ ($14.95) Adafruit 1.44" Color TFT LCD Display with MicroSD Card breakout: https://www.adafruit.com/product/2088#tutorials
++ ($14.95) PowerBoost 500 Basic - 5V USB Boost @ 500mA from 1.8V+: https://www.adafruit.com/product/1944
++ ($7.95) Lithium Ion Polymer Battery - 3.7v 500mAh: https://www.adafruit.com/product/1578#tutorials
 + Switch: We just found a SPDT switch lying around somewhere
-+ Arduino 101 Curie
-+ PCB from SEEEDstudio
++ ($39.95) Arduino 101 Curie: https://www.adafruit.com/product/3033
++ ($4.90 (without shipping)) PCB from SEEEDstudio
++ ($17.35) Pressure Sensor: http://www.mouser.com/ProductDetail/Silicon-Microstructures-Inc/SM5812-005-A-3-LR/?qs=SaTeGCoDkn3W1sd7OhXrnA%3D%3D
+
+### Total Price of everything: $100.05
+### Price if you wanted to use power through the USB:  $77.15
+### Price if you wanted to use power through the USB and didnt want the LCD: $62.20
