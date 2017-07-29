@@ -17,8 +17,8 @@ To avoid the lower resolution of the Arduino 101*, we needed to use a differenti
 SM5812: http://www.mouser.com/ds/2/589/SM5812-254991.pdf
 
 # BOM (Build of Materials)
-Adafruit 1.44" Color TFT LCD Display with MicroSD Card breakout: https://www.adafruit.com/product/2088#tutorials
-PowerBoost 500 Basic - 5V USB Boost @ 500mA from 1.8V+: https://www.adafruit.com/product/1944
-Lithium Ion Polymer Battery - 3.7v 500mAh: https://www.adafruit.com/product/1578#tutorials
-Switch: We just found a spdt switch lying around somewhere
-Arduino 101 Curie
++ Adafruit 1.44" Color TFT LCD Display with MicroSD Card breakout: https://www.adafruit.com/product/2088#tutorials
++ PowerBoost 500 Basic - 5V USB Boost @ 500mA from 1.8V+: https://www.adafruit.com/product/1944
++ Lithium Ion Polymer Battery - 3.7v 500mAh: https://www.adafruit.com/product/1578#tutorials
++ Switch: We just found a spdt switch lying around somewhere
++ Arduino 101 Curie
