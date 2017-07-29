@@ -1,6 +1,6 @@
 # Wheezer
-Intel Hackathon 2017
 ![GitHub Logo](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/523/027/datas/gallery.jpg)
+Intel Hackathon 2017
 Project Link: https://devpost.com/software/wheezer-418n3w
 
 # What is it?
