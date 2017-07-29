@@ -11,7 +11,7 @@ Our device measures the exhalation flow rate via the pressure drop through a ven
 # Inspiration
 Asthma affects approximately 1 in 12 people in the US (AAAAI, 2001). The most significant measurement for quantifying asthma severity is the pulmonary lung function test. One such function test includes spirometry, which is used to assess the lung volume and exhalation rate of the patient. Without health insurance, these tests can cost over $200 per visit (Healthcare Bluebook). Our goal is to design a low-cost device for spirometry testing that can accurately assess the patients lung capacity and flow rate during exhalation.
 
-# Circuit Diagram
+# Circuit Information
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Electrical%20Schematic/Schematic.png?raw=true)
 This image is a snapshot of a schematic in DIPTRACE. DIPTRACE is a freeware program used for circuitry design. 
 
