@@ -31,6 +31,13 @@ SEEEDStudio: https://www.seeedstudio.com/fusion_pcb.html
 # Data Comparison
 In order to see how accurate #TheWheezer was, we needed to compare it to a medical grade instrument. Since Tyler is an asthmatic, it was very easy to get the spirometry data. 
 
+Data gathered at the doctors office:
+![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Doctors_Data.jpg?raw=true)
+
+
+Our Data:
+![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Test_Data.png?raw=true)
+
 # Datasheets
 SM5812: http://www.mouser.com/ds/2/589/SM5812-254991.pdf
 
