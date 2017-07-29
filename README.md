@@ -44,15 +44,22 @@ In order to see how accurate #TheWheezer was, we needed to compare it to a medic
 
 + FEV1 - The amount of air exhaled may be measured during the first second
 
++ FVC = ~8
++ Peak = 4.87
++ FEV1 = 3.47
+
 ## Our Data:
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Test_Data.png?raw=true)
 
++ FVC = 8.2
++ Peak = 5.1
++ FEV1 = ~2.6
+
 ### Important Takeaways
 
-+ Note that the Volume vs Time graph is created by integrating the Flow Rate vs Time Data.  
++ Note that the Volume vs Time graph is created by integrating the Flow Rate vs Time Data. 
 
 + The blue line on the Flow Rate vs Time graph drops off at 2.74 L/s because it is the threshold that #TheWheezer is set to. The threshold is relatively high because the Differential pressure sensor is not sensitive enough to measure very low pressure drops. It ends on 2.74V and not 0 because the arduino code exits the plotting loop when the sensor is below the threshold. We expected the threshold to be lower. 
-
 
 # Conclusion
 + Our graph compares nicely with the Doctors graph. Our results are not identical because we do not have a medically accurate instrument with required margins of error; however, the results correlate very well!
