@@ -57,6 +57,8 @@ In order to see how accurate #TheWheezer was, we needed to compare it to a medic
 # Conclusion
 + Our graph compares nicely with the Doctors graph. Our results are not identical because we do not have a medically accurate instrument with required margins of error; however, the results correlate very well!
 
+# Future Improvements?
+It is possible that future iterations of Wheezer could also include a parallel measurement using a hot-wire anemometer to cover the low flow range while the venturi covers the upper range. Future iterations of Wheezer will also be able to save the patients data to their phone to track lung strengthening or deterioration over time. The instrument will also be redesigned for greater portability and convenience in maintenance.
 
 # Datasheets
 SM5812: http://www.mouser.com/ds/2/589/SM5812-254991.pdf
@@ -73,3 +75,5 @@ SM5812: http://www.mouser.com/ds/2/589/SM5812-254991.pdf
 ### Total Price of everything: $100.05
 ### Price if you wanted to use power through the USB:  $77.15
 ### Price if you wanted to use power through the USB and didnt want the LCD: $62.20
+
+### Medical Spirometers: https://www.medicaldevicedepot.com/Spirometers-s/30.htm
