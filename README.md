@@ -29,7 +29,7 @@ We ordered our PCB from SEEEDStudio*. We were debating on whether or not to prov
 SEEEDStudio: https://www.seeedstudio.com/fusion_pcb.html
 
 # Data Comparison
-In order to see how accurate #TheWheezer was, we needed to compare it to a medical grade instrument. Since Tyler is an asthmatic, it was very easy to get the spirometry data. 
+In order to see how accurate #TheWheezer was, we needed to compare it to a medical grade instrument. Since Tyler has asthma, it was very easy to get the spirometry data. 
 
 ## Data gathered at the doctors office:
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Doctors_Data.jpg?raw=true)
