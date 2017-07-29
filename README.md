@@ -18,6 +18,13 @@ To avoid the lower resolution of the Arduino 101*, we needed to use a differenti
 
 *The arduino 101 operating voltage is 3.3V, thus the analog input pins go from 0 to 3.3V. That cuts off everything over 3.3V that a 5V sensor would output. You can scale the a voltage output to fit the 3.3V cut off; however, we found that i2c was the simplest method that would require the least components.  
 
+# Our PCB
+![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/PCB_Inside_Print.jpg?raw=true)
+
+We ordered our PCB from SEEEDStudio*. We were debating on whether or not to provide the routing and GERBER files on Github; we ended up deciding not to because the SM5812 has become an obsolete component. 
+
+SEEEDStudio: https://www.seeedstudio.com/fusion_pcb.html
+
 # Datasheets
 SM5812: http://www.mouser.com/ds/2/589/SM5812-254991.pdf
 
