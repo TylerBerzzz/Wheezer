@@ -25,6 +25,9 @@ We ordered our PCB from SEEEDStudio*. We were debating on whether or not to prov
 
 SEEEDStudio: https://www.seeedstudio.com/fusion_pcb.html
 
+# Data Comparison
+In order to see how accurate #TheWheezer was, we needed to compare it to a medical grade instrument. Since Tyler is an asthmatic, it was very easy to get the spirometry data. 
+
 # Datasheets
 SM5812: http://www.mouser.com/ds/2/589/SM5812-254991.pdf
 
