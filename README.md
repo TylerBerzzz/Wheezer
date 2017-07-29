@@ -55,7 +55,7 @@ In order to see how accurate #TheWheezer was, we needed to compare it to a medic
 
 
 # Conclusion
-+ Our graph compares nicely with the Doctors graph. Our results are not identical (because we do not have a medically accurate instrument with required margins of error); however, the results correlate very well!
++ Our graph compares nicely with the Doctors graph. Our results are not identical because we do not have a medically accurate instrument with required margins of error; however, the results correlate very well!
 
 
 # Datasheets
