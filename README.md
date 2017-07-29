@@ -7,4 +7,4 @@ Our device measures the exhalation flow rate via the pressure drop through a ven
 
 # Circuit Diagram
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Electrical%20Schematic/Schematic.png?raw=true)
-Format: ![Alt Text](url)
+![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Electrical%20Schematic/schematic_info.png?raw=true)
