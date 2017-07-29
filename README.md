@@ -34,6 +34,12 @@ In order to see how accurate #TheWheezer was, we needed to compare it to a medic
 ## Data gathered at the doctors office:
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Doctors_Data.jpg?raw=true)
 
++ FVC = ~8
+
++ Peak = 4.87
+
++ FEV1 = 3.47
+
 ### Important Takeaways
 
 + The peak in the left graph represents how well air is moving through your airways at the time you take the test. Typically asthmatics have something called a "peak flow meter" which only measure the fastest flow you expel. It can be a helpful monitor for measuring present asthma symptoms; however, the peak doesn't tell you anything about your small airways- which makes these available devices limited.
@@ -43,10 +49,6 @@ In order to see how accurate #TheWheezer was, we needed to compare it to a medic
 + FEV stands for Forced expiratory volume, which measures how much air you can exhale during a forced breath. 
 
 + FEV1 - The amount of air exhaled may be measured during the first second
-
-+ FVC = ~8
-+ Peak = 4.87
-+ FEV1 = 3.47
 
 ## Our Data:
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Test_Data.png?raw=true)
