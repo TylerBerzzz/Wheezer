@@ -13,7 +13,8 @@ Asthma affects approximately 1 in 12 people in the US (AAAAI, 2001). The most si
 
 # Circuit Information
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Electrical%20Schematic/Schematic.png?raw=true)
-This image is a snapshot of a schematic in DIPTRACE. DIPTRACE is a freeware program used for circuitry design. If the resolution of the picture is too low to make out certain text, download the program ...sorry :(  (it will be fixed soon)
+![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Electrical%20Schematic/Schematic_CloserView.PNG?raw=true)
+This image is a snapshot of a schematic in DIPTRACE. DIPTRACE is a freeware program used for circuitry design. The schematic file is inside the Electrical Schematic folder.
 
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Electrical%20Schematic/schematic_info.png?raw=true)
 
