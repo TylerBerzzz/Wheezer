@@ -7,7 +7,7 @@ Our device measures the exhalation flow rate via the pressure drop through a ven
 
 # Circuit Diagram
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Electrical%20Schematic/Schematic.png?raw=true)
-This image was created in DIPTRACE. DIPTRACE is a freeware program for circuitry design. 
+This image is a snapshot of a schematic in DIPTRACE. DIPTRACE is a freeware program used for circuitry design. 
 
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Electrical%20Schematic/schematic_info.png?raw=true)
 
