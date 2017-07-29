@@ -31,11 +31,19 @@ SEEEDStudio: https://www.seeedstudio.com/fusion_pcb.html
 # Data Comparison
 In order to see how accurate #TheWheezer was, we needed to compare it to a medical grade instrument. Since Tyler is an asthmatic, it was very easy to get the spirometry data. 
 
-Data gathered at the doctors office:
+## Data gathered at the doctors office:
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Doctors_Data.jpg?raw=true)
 
+### Important Takeaways
++ The peak in the left graph represents how well air is moving through your airways at the time you take the test. Typically asthmatics have something called a "peak flow meter" which only measure the fastest flow you expel. It can be a helpful monitor for measuring present asthma symptoms; however, the peak doesn't tell you anything about your small airways- which makes these available devices limited.
 
-Our Data:
++ FVC stands for forced vital capacity. FVC is the total amount of air exhaled during the test.
+
++ FEV stands for Forced expiratory volume, which measures how much air you can exhale during a forced breath. 
+
++ FEV1 - The amount of air exhaled may be measured during the first second
+
+## Our Data:
 ![GitHub Logo](https://github.com/TylerBerzzz/Wheezer/blob/master/Device%20Images/Test_Data.png?raw=true)
 
 # Datasheets
