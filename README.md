@@ -1,4 +1,4 @@
-# #TheWheezer README
+# TheWheezer README
 ![GitHub Logo](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/523/027/datas/gallery.jpg)
 
 Intel Hackathon 2017
