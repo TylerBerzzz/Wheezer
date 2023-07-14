@@ -1,7 +1,7 @@
 # The Wheezer
 
 <p align="center">
-  <img src="./wheezer.jpg"/>
+  <img src="./wheezer.jpeg"/>
 </p>
 
 Intel Hackathon 2017
